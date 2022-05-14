@@ -1,0 +1,2 @@
+# switchbot
+control switchBot curtains
